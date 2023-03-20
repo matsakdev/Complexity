@@ -1,0 +1,22 @@
+{
+  "name": "complexity",
+  "version": "1.0.0",
+  "description": "The IoT project with backend, web and Android parts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matsakdev/Complexity.git"
+  },
+  "author": "Stanislav Matsak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matsakdev/Complexity/issues"
+  },
+  "homepage": "https://github.com/matsakdev/Complexity#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
